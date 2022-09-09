@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TriviaQuizApp</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="statistics">Statistics</string>
+    <string name="new_game">New Game</string>
+    <string name="log_out">Log out</string>
+    <string name="name1">Name</string>
+</resources>
